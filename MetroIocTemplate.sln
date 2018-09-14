@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetroIocTemplate", "MetroIocTemplate\MetroIocTemplate.csproj", "{7FEB419A-660E-4988-B77C-CA355312EDFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSIXProject", "VSIXProject\VSIXProject.csproj", "{7D2B1E01-C1B0-4509-9DFA-EF5C2764688A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7FEB419A-660E-4988-B77C-CA355312EDFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FEB419A-660E-4988-B77C-CA355312EDFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FEB419A-660E-4988-B77C-CA355312EDFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D2B1E01-C1B0-4509-9DFA-EF5C2764688A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D2B1E01-C1B0-4509-9DFA-EF5C2764688A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D2B1E01-C1B0-4509-9DFA-EF5C2764688A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D2B1E01-C1B0-4509-9DFA-EF5C2764688A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
