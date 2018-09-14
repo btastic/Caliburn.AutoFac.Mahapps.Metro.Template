@@ -1,4 +1,4 @@
-﻿namespace MetroIocTemplate
+﻿namespace $safeprojectname$
 {
     public interface IShell
     {

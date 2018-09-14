@@ -1,4 +1,4 @@
-﻿namespace MetroIocTemplate.Views
+﻿namespace $safeprojectname$.Views
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

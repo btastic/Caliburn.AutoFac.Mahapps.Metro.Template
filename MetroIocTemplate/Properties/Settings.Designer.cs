@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MetroIocTemplate.Properties
+namespace $safeprojectname$.Properties
 {
 
 

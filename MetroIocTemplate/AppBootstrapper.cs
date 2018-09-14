@@ -1,9 +1,9 @@
 ﻿using System.Windows;
 using Autofac;
 using Caliburn.Micro.Autofac;
-using MetroIocTemplate.ViewModels;
+using $safeprojectname$.ViewModels;
 
-namespace MetroIocTemplate
+namespace $safeprojectname$
 {
     public class AppBootstrapper : AutofacBootstrapper<ShellViewModel>
     {

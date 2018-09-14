@@ -1,4 +1,4 @@
-﻿namespace MetroIocTemplate
+﻿namespace $safeprojectname$
 {
     /// <summary>
     /// Interaction logic for App.xaml
